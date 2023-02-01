@@ -1,0 +1,92 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  
+
+  <ItemGroup>
+    <Content Include="bin\contacts.txt" />
+    <Content Include="bin\Debug\net6.0\TgBotTest.deps.json" />
+    <Content Include="bin\Debug\net6.0\TgBotTest.runtimeconfig.json" />
+    <Content Include="bin\materials\calendar\ais.txt" />
+    <Content Include="bin\materials\calendar\bazarspb.txt" />
+    <Content Include="bin\materials\calendar\congr.txt" />
+    <Content Include="bin\materials\calendar\contacts.txt" />
+    <Content Include="bin\materials\calendar\energo.txt" />
+    <Content Include="bin\materials\calendar\expogift_expoforum.txt" />
+    <Content Include="bin\materials\calendar\expogift_kirova.txt" />
+    <Content Include="bin\materials\calendar\fiexpo_osen.txt" />
+    <Content Include="bin\materials\calendar\fiexpo_vesna.txt" />
+    <Content Include="bin\materials\calendar\kig.txt" />
+    <Content Include="bin\materials\calendar\pmas.txt" />
+    <Content Include="bin\materials\calendar\pzn.txt" />
+    <Content Include="bin\materials\calendar\radel.txt" />
+    <Content Include="bin\materials\calendar\rgs.txt" />
+    <Content Include="bin\materials\calendar\vdl_expoforum.txt" />
+    <Content Include="bin\materials\calendar\vdl_kirova.txt" />
+    <Content Include="bin\materials\contacts\ais.txt" />
+    <Content Include="bin\materials\contacts\bazarspb.txt" />
+    <Content Include="bin\materials\contacts\congr.txt" />
+    <Content Include="bin\materials\contacts\contacts.txt" />
+    <Content Include="bin\materials\contacts\energo.txt" />
+    <Content Include="bin\materials\contacts\expogift.txt" />
+    <Content Include="bin\materials\contacts\fiexpo.txt" />
+    <Content Include="bin\materials\contacts\kig.txt" />
+    <Content Include="bin\materials\contacts\pmas.txt" />
+    <Content Include="bin\materials\contacts\pzn.txt" />
+    <Content Include="bin\materials\contacts\radel.txt" />
+    <Content Include="bin\materials\contacts\rgs.txt" />
+    <Content Include="bin\materials\contacts\vdl.txt" />
+    <Content Include="bin\materials\sites.txt" />
+    <Content Include="obj\Debug\net6.0\TgBotTest.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\TgBotTest.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\Newtonsoft.Json.dll" />
+    <None Include="bin\Debug\net6.0\Telegram.Bot.dll" />
+    <None Include="bin\Debug\net6.0\TgBotTest.dll" />
+    <None Include="bin\Debug\net6.0\TgBotTest.exe" />
+    <None Include="bin\Debug\net6.0\TgBotTest.pdb" />
+    <None Include="bin\Debug\TgBotTest.1.0.0.nupkg" />
+    <None Include="bin\Release\net6.0\TgBotTest.exe" />
+    <None Include="obj\Debug\net6.0\apphost.exe" />
+    <None Include="obj\Debug\net6.0\refint\TgBotTest.dll" />
+    <None Include="obj\Debug\net6.0\ref\TgBotTest.dll" />
+    <None Include="obj\Debug\net6.0\TgBotTest.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\TgBotTest.assets.cache" />
+    <None Include="obj\Debug\net6.0\TgBotTest.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\TgBotTest.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\TgBotTest.csproj.CopyComplete" />
+    <None Include="obj\Debug\net6.0\TgBotTest.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\TgBotTest.dll" />
+    <None Include="obj\Debug\net6.0\TgBotTest.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\TgBotTest.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0\TgBotTest.pdb" />
+    <None Include="obj\Debug\TgBotTest.1.0.0.nuspec" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net6.0\TgBotTest.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net6.0\TgBotTest.assets.cache" />
+    <None Include="obj\Release\net6.0\TgBotTest.csproj.AssemblyReference.cache" />
+    <None Include="obj\Release\net6.0\TgBotTest.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\TgBotTest.csproj.nuget.g.props" />
+    <None Include="obj\TgBotTest.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Telegram.Bot" Version="18.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="obj\Release\net6.0\refint\" />
+    <Folder Include="obj\Release\net6.0\ref\" />
+    <Folder Include="Properties\PublishProfiles\" />
+  </ItemGroup>
+
+</Project>
