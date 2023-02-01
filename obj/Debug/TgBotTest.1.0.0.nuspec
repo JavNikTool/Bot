@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TgBotTest</id>
+    <version>1.0.0</version>
+    <authors>TgBotTest</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Telegram.Bot" version="18.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/bin/contacts.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/Debug/net6.0/TgBotTest.deps.json" buildAction="Content" />
+      <files include="any/net6.0/bin/Debug/net6.0/TgBotTest.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/ais.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/bazarspb.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/congr.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/contacts.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/energo.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/expogift_expoforum.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/expogift_kirova.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/fiexpo_osen.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/fiexpo_vesna.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/kig.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/pmas.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/pzn.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/radel.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/rgs.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/vdl_expoforum.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/calendar/vdl_kirova.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/ais.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/bazarspb.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/congr.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/contacts.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/energo.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/expogift.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/fiexpo.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/kig.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/pmas.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/pzn.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/radel.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/rgs.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/contacts/vdl.txt" buildAction="Content" />
+      <files include="any/net6.0/bin/materials/sites.txt" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\Debug\net6.0\TgBotTest.runtimeconfig.json" target="lib\net6.0\TgBotTest.runtimeconfig.json" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\Debug\net6.0\TgBotTest.dll" target="lib\net6.0\TgBotTest.dll" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\contacts.txt" target="content\bin\contacts.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\contacts.txt" target="contentFiles\any\net6.0\bin\contacts.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\Debug\net6.0\TgBotTest.deps.json" target="content\bin\Debug\net6.0\TgBotTest.deps.json" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\Debug\net6.0\TgBotTest.deps.json" target="contentFiles\any\net6.0\bin\Debug\net6.0\TgBotTest.deps.json" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\Debug\net6.0\TgBotTest.runtimeconfig.json" target="content\bin\Debug\net6.0\TgBotTest.runtimeconfig.json" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\Debug\net6.0\TgBotTest.runtimeconfig.json" target="contentFiles\any\net6.0\bin\Debug\net6.0\TgBotTest.runtimeconfig.json" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\ais.txt" target="content\bin\materials\calendar\ais.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\ais.txt" target="contentFiles\any\net6.0\bin\materials\calendar\ais.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\bazarspb.txt" target="content\bin\materials\calendar\bazarspb.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\bazarspb.txt" target="contentFiles\any\net6.0\bin\materials\calendar\bazarspb.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\congr.txt" target="content\bin\materials\calendar\congr.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\congr.txt" target="contentFiles\any\net6.0\bin\materials\calendar\congr.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\contacts.txt" target="content\bin\materials\calendar\contacts.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\contacts.txt" target="contentFiles\any\net6.0\bin\materials\calendar\contacts.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\energo.txt" target="content\bin\materials\calendar\energo.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\energo.txt" target="contentFiles\any\net6.0\bin\materials\calendar\energo.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\expogift_expoforum.txt" target="content\bin\materials\calendar\expogift_expoforum.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\expogift_expoforum.txt" target="contentFiles\any\net6.0\bin\materials\calendar\expogift_expoforum.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\expogift_kirova.txt" target="content\bin\materials\calendar\expogift_kirova.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\expogift_kirova.txt" target="contentFiles\any\net6.0\bin\materials\calendar\expogift_kirova.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\fiexpo_osen.txt" target="content\bin\materials\calendar\fiexpo_osen.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\fiexpo_osen.txt" target="contentFiles\any\net6.0\bin\materials\calendar\fiexpo_osen.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\fiexpo_vesna.txt" target="content\bin\materials\calendar\fiexpo_vesna.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\fiexpo_vesna.txt" target="contentFiles\any\net6.0\bin\materials\calendar\fiexpo_vesna.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\kig.txt" target="content\bin\materials\calendar\kig.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\kig.txt" target="contentFiles\any\net6.0\bin\materials\calendar\kig.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\pmas.txt" target="content\bin\materials\calendar\pmas.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\pmas.txt" target="contentFiles\any\net6.0\bin\materials\calendar\pmas.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\pzn.txt" target="content\bin\materials\calendar\pzn.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\pzn.txt" target="contentFiles\any\net6.0\bin\materials\calendar\pzn.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\radel.txt" target="content\bin\materials\calendar\radel.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\radel.txt" target="contentFiles\any\net6.0\bin\materials\calendar\radel.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\rgs.txt" target="content\bin\materials\calendar\rgs.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\rgs.txt" target="contentFiles\any\net6.0\bin\materials\calendar\rgs.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\vdl_expoforum.txt" target="content\bin\materials\calendar\vdl_expoforum.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\vdl_expoforum.txt" target="contentFiles\any\net6.0\bin\materials\calendar\vdl_expoforum.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\vdl_kirova.txt" target="content\bin\materials\calendar\vdl_kirova.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\calendar\vdl_kirova.txt" target="contentFiles\any\net6.0\bin\materials\calendar\vdl_kirova.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\ais.txt" target="content\bin\materials\contacts\ais.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\ais.txt" target="contentFiles\any\net6.0\bin\materials\contacts\ais.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\bazarspb.txt" target="content\bin\materials\contacts\bazarspb.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\bazarspb.txt" target="contentFiles\any\net6.0\bin\materials\contacts\bazarspb.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\congr.txt" target="content\bin\materials\contacts\congr.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\congr.txt" target="contentFiles\any\net6.0\bin\materials\contacts\congr.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\contacts.txt" target="content\bin\materials\contacts\contacts.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\contacts.txt" target="contentFiles\any\net6.0\bin\materials\contacts\contacts.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\energo.txt" target="content\bin\materials\contacts\energo.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\energo.txt" target="contentFiles\any\net6.0\bin\materials\contacts\energo.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\expogift.txt" target="content\bin\materials\contacts\expogift.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\expogift.txt" target="contentFiles\any\net6.0\bin\materials\contacts\expogift.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\fiexpo.txt" target="content\bin\materials\contacts\fiexpo.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\fiexpo.txt" target="contentFiles\any\net6.0\bin\materials\contacts\fiexpo.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\kig.txt" target="content\bin\materials\contacts\kig.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\kig.txt" target="contentFiles\any\net6.0\bin\materials\contacts\kig.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\pmas.txt" target="content\bin\materials\contacts\pmas.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\pmas.txt" target="contentFiles\any\net6.0\bin\materials\contacts\pmas.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\pzn.txt" target="content\bin\materials\contacts\pzn.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\pzn.txt" target="contentFiles\any\net6.0\bin\materials\contacts\pzn.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\radel.txt" target="content\bin\materials\contacts\radel.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\radel.txt" target="contentFiles\any\net6.0\bin\materials\contacts\radel.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\rgs.txt" target="content\bin\materials\contacts\rgs.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\rgs.txt" target="contentFiles\any\net6.0\bin\materials\contacts\rgs.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\vdl.txt" target="content\bin\materials\contacts\vdl.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\contacts\vdl.txt" target="contentFiles\any\net6.0\bin\materials\contacts\vdl.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\sites.txt" target="content\bin\materials\sites.txt" />
+    <file src="C:\Job\c_sharp\app1\TgBotTest\bin\materials\sites.txt" target="contentFiles\any\net6.0\bin\materials\sites.txt" />
+  </files>
+</package>

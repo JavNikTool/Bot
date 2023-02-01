@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YWwuEDMVFu74fBqWQWMM3laJsStXy2jfPL8dMMLjLKVMNBGtR6soDWNeDfCfCIsKZXVbHIu9F7CQjpVoNsAZw==",
+  "success": true,
+  "projectFilePath": "C:\\Job\\c_sharp\\app1\\TgBotTest\\TgBotTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
